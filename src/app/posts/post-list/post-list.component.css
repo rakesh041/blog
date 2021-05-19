@@ -1,0 +1,12 @@
+mat-accordion {
+    width:80%;
+    margin:0 auto;
+}
+
+mat-paginator { 
+    margin-top: 1rem;
+}
+
+mat-spinner { 
+    margin: auto
+}
